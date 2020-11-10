@@ -10,6 +10,6 @@ Scenario Outline: Scenario2
     And Mr Pignon is <mood>
     
     Examples:
-    |Bar		   |maxSeating|nbpeople|etat  |price |totalPrice|mood	 |
-    |"le Juste"|10				|8			 |"full"|10	   |20				|"good"|
-    |"le Juste"|10				|8			 |"full"|10	   |20				|"sick"|
+    |Bar	   |maxSeating|nbpeople|etat  |price |totalPrice|mood  |
+    |"le Juste"|10		  |8	   |"full"|10	 |20		|"good"|
+    |"le Juste"|10		  |8	   |"full"|10	 |20		|"sick"|
