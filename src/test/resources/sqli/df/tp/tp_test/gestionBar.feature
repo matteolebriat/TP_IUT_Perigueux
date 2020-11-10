@@ -13,6 +13,6 @@ Feature: Gestion du Bar
     
     Examples:
     | client1  | client2  |nameBar   |maxSeating|together|numberPerson|access |status|
-    |"Pignon"  |"Le Blanc"|"le Juste"|10		    |2	     |9			      |false  |"full"|
-    |"Pignon"	 |"Le Blanc"|"le Juste"|10				|2       |7						|true   |"open"|
+    |"Pignon"  |"Le Blanc"|"le Juste"|10	|2	 |9	      |false  |"full"|
+    |"Pignon"  |"Le Blanc"|"le Juste"|10	|2       |7	      |true   |"open"|
     
